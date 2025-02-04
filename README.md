@@ -1,7 +1,1 @@
-# setup
-repo for testing github
-A line I wrote on my local computer
-
-this repo was used to link R to Github
-testing
- testing pulling
+I am re-writing the Read.ME to test my Git push and pull
